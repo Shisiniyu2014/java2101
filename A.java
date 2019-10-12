@@ -1,1 +1,3 @@
-public void A(){}
+public class A(){
+  // shfgkljs
+}
